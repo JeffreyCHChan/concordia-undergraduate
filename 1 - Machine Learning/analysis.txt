@@ -1,0 +1,11 @@
+Model Name	| Recall
+Regular decision tree	0.6577551453426692
+Randomized CV Decision Tree	0.7339274347549332
+Decision Tree model with scaled data	0.7359077728269326
+Random Forest	0.7459509159063583
+Random forest model with scaled data	0.7481434330575005
+MLP Random Search	0.7446778414315015
+MLP model with scaled data	0.7432633142372163
+Logistic model with random search	0.7377466581795035
+Logistic model with scaled data	0.7442534832732159
+Neural Network	0.5061885564749983
