@@ -1,0 +1,14 @@
+matplotlib==3.5.3
+numpy==1.22.3
+pandas==1.5.2
+pytest==7.2.1
+scikit-learn==1.1.2
+pyspark==3.3.1
+findspark
+jupyter
+xlsxwriter
+spacy
+requests
+spacy-dbpedia-spotlight
+PyArrow >= 1.0.0
+sklearn
